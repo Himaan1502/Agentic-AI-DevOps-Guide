@@ -1,1 +1,116 @@
-{"canmore.create\_textdoc": {"name": "README", "type": "code/md", "content": "# 📘 Comprehensive Guide to Agentic AI & Agentic DevOps\n\nThis repository contains a **complete reference guide** on Agentic AI and Agentic DevOps, bridging **theoretical concepts** with **practical implementations**. It is designed for researchers, engineers, and DevOps professionals who want to understand, plan, and implement agentic systems in modern software development lifecycles.\n\n---\n\n## 📑 Key Sections Covered\n\n### 1. Understanding Agentic AI\n- Complete definition and core concepts\n- Key characteristics: **autonomy, proactivity, goal-oriented behavior**\n- Multi-agent system architectures and design patterns\n\n### 2. Agentic DevOps Evolution\n- Transformation from **traditional DevOps** to **intelligent operations**\n- Four maturity levels: from **basic automation** to **collaborative intelligence**\n- Coverage of **all SDLC phases**: development, testing, deployment, operations\n\n### 3. Frameworks and Tools\n- **Popular Frameworks:** LangChain, LangGraph, Microsoft AutoGen, CrewAI, SuperAGI, Phidata\n- **DevOps-Specific Tools:** Agentic DevOps Framework, GitHub Copilot integration, Harness AI DevOps Agent\n- Complete **comparison tables** with best use cases\n\n### 4. Research Papers and Academic Resources\n- **50+ research papers** from top venues (arXiv, IEEE, ACM)\n- Key studies on **multi-agent systems, security frameworks, domain applications**\n- Latest **2025 research**: cognitive degradation mitigation, autonomous optimization\n\n### 5. Practical Implementation\n- Step-by-step implementation guide with **code examples**\n- Multi-agent system patterns and architectures\n- **CI/CD pipeline integration** examples\n- Real-world **use cases across industries**\n\n### 6. Official Documentation\n- Links to **major framework documentation**\n- Cloud provider resources: **AWS, Google Cloud, Microsoft Azure**\n- Industry standards and **best practices**\n\n### 7. GitHub Repositories\n- **20+ curated repositories** for practical implementation\n- Framework-specific projects and examples\n- Open-source tools and libraries\n\n---\n\n## 🌟 Notable Highlights\n- **NetMoniAI** → Complete open-source agentic AI framework for **network security**\n- **MASAI Architecture** → Achieved **28.33% resolution rate** on SWE-bench\n- **Enterprise Implementations** → Examples from **Commerzbank, DBS Bank**\n- **Security Frameworks** → Zero-trust identity systems, cognitive degradation prevention\n\n---\n\n## 🎯 Purpose\nThis document serves as a **one-stop reference** for:\n- Understanding **Agentic AI** fundamentals\n- Adopting **Agentic DevOps** in enterprise environments\n- Leveraging **research-backed frameworks** for secure, scalable, and autonomous systems\n\n---\n\n## 📂 Structure of This Repository\n- `docs/` → Full detailed guide (PDF/Markdown format)\n- `examples/` → Code samples and CI/CD integration scripts\n- `research/` → Curated papers and references\n- `repos/` → Links to open-source projects and frameworks\n\n---\n\n## 🚀 Getting Started\n1. Clone this repository:\n   `bash\n   git clone https://github.com/<your-org>/agentic-ai-devops-guide.git\n   `\n2. Explore the `docs/` section for the full guide.\n3. Check `examples/` for hands-on implementation.\n\n---\n\n## 📚 References\n- [LangChain Documentation](https://docs.langchain.com)\n- [Microsoft AutoGen](https://microsoft.github.io/autogen/)\n- [CrewAI](https://github.com/joaomdmoura/crewai)\n- [SuperAGI](https://superagi.com)\n- [Phidata](https://docs.phidata.com)\n- Research from **arXiv, IEEE, ACM** (2020–2025)\n\n---\n\n## 🛡️ Security & Best Practices\n- **Zero-trust identity management**\n- **Cognitive degradation prevention** frameworks\n- **Safe and scalable adoption** strategies\n\n---\n\n## 🤝 Contributing\nContributions are welcome! Please fork the repo and submit a pull request.\n\n---\n\n## 📜 License\nThis project is licensed under the **MIT License**.\n"} }
+# Comprehensive Guide to Agentic AI & Agentic DevOps
+
+This repository serves as a complete reference and practical guide to understanding, planning, and implementing Agentic AI systems in DevOps environments. It bridges theoretical concepts with practical applications, providing both academic depth and implementation guidance.
+
+---
+
+## Table of Contents
+
+1. [Understanding Agentic AI](#understanding-agentic-ai)  
+2. [Agentic DevOps Evolution](#agentic-devops-evolution)  
+3. [Frameworks and Tools](#frameworks-and-tools)  
+4. [Research Papers and Academic Resources](#research-papers-and-academic-resources)  
+5. [Practical Implementation](#practical-implementation)  
+6. [Official Documentation](#official-documentation)  
+7. [GitHub Repositories](#github-repositories)  
+8. [Notable Highlights](#notable-highlights)  
+
+---
+
+## Understanding Agentic AI
+
+Agentic AI represents the next generation of artificial intelligence where software agents demonstrate **autonomy, proactivity, and goal-oriented behavior**. Unlike traditional passive AI, agentic systems can independently make decisions, plan multi-step workflows, and adapt dynamically to complex environments.
+
+- **Core characteristics:** Autonomy, self-improvement, context-awareness, interactivity, and goal orientation.  
+- **Multi-agent architectures:** Systems are often composed of specialized agents collaborating to achieve complex tasks efficiently.  
+- **Example:** An AI agent that plans a project by dividing work among research, analysis, and content creation agents working together.
+
+---
+
+## Agentic DevOps Evolution
+
+The integration of agentic AI into DevOps is transforming the traditional landscape, moving beyond scripted automation toward **collaborative intelligence**.
+
+- **Transformation path:** From basic automation → intelligent automation → AI-assisted operations → fully collaborative AI-human workflows.  
+- **Coverage:** All phases of SDLC (development, testing, deployment, operations) benefit from agentic AI’s adaptive capabilities.  
+- **Key benefits:** Reduced manual intervention, faster problem resolution, smarter incident response, and continuous optimization.
+
+---
+
+## Frameworks and Tools
+
+Explore popular frameworks and tools powering Agentic AI and Agentic DevOps:
+
+| Framework/Tool         | Description                          | Best Use Cases                        |
+|-----------------------|------------------------------------|-------------------------------------|
+| LangChain             | LLM-based agentic workflows         | Conversational AI, Data orchestration |
+| LangGraph             | Graph-based agent management         | Complex multi-agent coordination     |
+| Microsoft AutoGen     | AI-generated code & deployment      | DevOps automation, CI/CD enhancement |
+| CrewAI                | Task orchestration                   | Autonomous project execution         |
+| SuperAGI              | General AI agent framework           | Autonomous research assistants       |
+| Phidata               | Data-centric AI workflow management  | Enterprise data operations            |
+| Agentic DevOps Framework | AI-powered software lifecycle     | Complete DevOps automation            |
+| GitHub Copilot        | AI code assistant                    | Code generation and review           |
+| Harness AI DevOps Agent| AI-driven CI/CD orchestration       | Intelligent pipeline management      |
+
+---
+
+## Research Papers and Academic Resources
+
+- 50+ research papers curated from top venues including **arXiv**, **IEEE**, and **ACM**.  
+- Studies covering multi-agent system architectures, security frameworks, and application domains.  
+- Latest research (2025) includes **cognitive degradation mitigation**, **autonomous optimization**, and **zero-trust identity systems**.  
+
+---
+
+## Practical Implementation
+
+Step-by-step guides and code examples for deploying agentic AI systems in DevOps:
+
+- Designing and implementing multi-agent system patterns.  
+- Integration within CI/CD pipelines leveraging agentic AI for continuous improvements.  
+- Real-world case studies from various industries demonstrating deployment and impact.  
+
+---
+
+## Official Documentation
+
+Links to authoritative documentation and resources for Agentic AI frameworks and cloud providers:
+
+- [LangChain Documentation](https://docs.langchain.com/)  
+- [Microsoft AutoGen](https://github.com/microsoft/autogen)  
+- Cloud provider resources: AWS, Azure, Google Cloud official AI and DevOps guides.  
+- Industry standards and best practices for intelligent automation and security.
+
+---
+
+## GitHub Repositories
+
+Curated list of 20+ repositories providing practical implementations of agentic AI:
+
+- Frameworks specific projects such as **NetMoniAI** for network security automation.  
+- Architectures like **MASAI** achieving significant benchmarks in autonomous problem-solving.  
+- Tools for integrating agentic AI in DevOps and security workflows.
+
+---
+
+## Notable Highlights
+
+- **NetMoniAI:** Open-source agentic AI framework focused on network security automation.  
+- **MASAI Architecture:** Achieved 28.33% resolution rate on SWE-bench for autonomous coding problems.  
+- **Enterprise Use Cases:** Successful implementations in banks like Commerzbank and DBS Bank showcasing scalability and security.  
+- **Security Frameworks:** Incorporating zero-trust identity systems and mitigating cognitive degradation in AI workflows.  
+
+---
+
+## License
+
+Specify your license here, e.g., MIT, Apache 2.0, etc.
+
+---
+
+This guide provides a complete foundation for anyone looking to understand or implement agentic AI in modern DevOps ecosystems, blending academic research with practical insights and tooling recommendations.
+
+---
+
+*For contributions, issues, or further discussions, please open a GitHub issue or contact the repository owner.*
