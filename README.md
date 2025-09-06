@@ -103,12 +103,6 @@ Curated list of 20+ repositories providing practical implementations of agentic 
 
 ---
 
-## License
-
-Specify your license here, e.g., MIT, Apache 2.0, etc.
-
----
-
 This guide provides a complete foundation for anyone looking to understand or implement agentic AI in modern DevOps ecosystems, blending academic research with practical insights and tooling recommendations.
 
 ---
